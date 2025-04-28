@@ -12,15 +12,15 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://username.github.io/repository-name/your-app.ipa</string>
+          <string>https://github.com/androidkarlo/kapp_install/blob/main/kapp.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.example.app</string>
+        <string>com.mobile.karlo.kapp</string>
         <key>bundle-version</key>
-        <string>1.0.0</string>
+        <string>1.0.1</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
