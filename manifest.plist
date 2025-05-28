@@ -12,7 +12,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://androidkarlo.github.io/kapp_install/kapp.ipa</string>
+          <string>https://github.com/androidkarlo/kapp_install/releases/download/v1.0.24/K-Apps-Staging.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
